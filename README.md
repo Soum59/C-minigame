@@ -1,5 +1,5 @@
-#C-minigame
+# C-minigame
 
 (requested)
 
-Un minijeu d'énigmes en C.
+### Un mini-jeu d'énigmes en C.
